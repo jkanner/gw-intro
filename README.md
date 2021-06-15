@@ -10,3 +10,7 @@ A short introduction to working with gravitational wave data.
  * [Tutorial 4](https://colab.research.google.com/github/jkanner/gw-intro/blob/main/intro-4-qtransform.ipynb)
  * [Tutorial 5](https://colab.research.google.com/github/jkanner/gw-intro/blob/main/intro-5-noise.ipynb)
  * [Tutorial 6](https://colab.research.google.com/github/jkanner/gw-intro/blob/main/intro-6-whiten-bandpass.ipynb)
+
+### Addtional Setup instructions
+
+See [Open Data Workshop 2021](https://github.com/gw-odw/odw-2021/blob/master/setup.md) for additional software setup suggestions.
