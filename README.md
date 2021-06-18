@@ -2,6 +2,8 @@
 
 A short introduction to working with gravitational wave data.  
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jkanner/gw-intro/main)
+
 ### Run in Google Co-lab:
  * [Tutorial 0](https://colab.research.google.com/github/jkanner/gw-intro/blob/main/intro-0-welcome.ipynb)
  * [Tutorial 1](https://colab.research.google.com/github/jkanner/gw-intro/blob/main/intro-1-nyquist.ipynb)
