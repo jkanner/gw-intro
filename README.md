@@ -1,6 +1,12 @@
-# gw-intro
+# Introduction to Gravitational Wave Data Analysis
 
-A short introduction to working with gravitational wave data.  
+A short introduction to working with gravitational wave data.
+
+For more information, see https://gw-openscience.org
+
+### Run the code
+
+Click the badge to run the code:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jkanner/gw-intro/main)
 
