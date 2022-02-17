@@ -14,6 +14,10 @@ For more information, see https://gw-openscience.org
 
 * Click the badge: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jkanner/gw-intro/blob/main)
 
+## Video Lectures
+
+[Recorded Lectures](https://labcit.ligo.caltech.edu/~jkanner/gwosc/intro-course/) accompany these tutorials.
+
 ## Addtional instructions
 
 See [Open Data Workshop 2021](https://github.com/gw-odw/odw-2021/blob/master/setup.md) for video help and other software setup suggestions.
