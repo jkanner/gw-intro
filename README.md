@@ -2,7 +2,7 @@
 
 A short introduction to working with gravitational wave data.
 
-For more information, see https://gw-openscience.org
+For more information, see https://gwosc.org
 
 ## Use either option below to run the tutorials in your browser
 
@@ -21,3 +21,7 @@ For more information, see https://gw-openscience.org
 ## Addtional instructions
 
 See [Open Data Workshop 2021](https://github.com/gw-odw/odw-2021/blob/master/setup.md) for video help and other software setup suggestions.
+
+## Acknowledgement
+
+This research has made use of data or software obtained from the Gravitational Wave Open Science Center (gwosc.org), a service of the LIGO Scientific Collaboration, the Virgo Collaboration, and KAGRA.  Materials inspired by the GW Open Data Workshop, at https://github.com/gw-odw
